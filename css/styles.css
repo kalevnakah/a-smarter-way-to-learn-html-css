@@ -11,3 +11,6 @@ p.important {
 h3.bigger {
   font-size: 2.5em;
 }
+.typewriter {
+  font-family: "Courier New", Courier, Monospace;
+}
