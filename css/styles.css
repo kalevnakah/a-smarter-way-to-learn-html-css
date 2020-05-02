@@ -17,3 +17,6 @@ h3.bigger {
 .emphasized {
   font-style:italic;
 }
+.color {
+  color: red
+}
