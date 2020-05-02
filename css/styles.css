@@ -15,8 +15,14 @@ h3.bigger {
   font-family: "Courier New", Courier, Monospace;
 }
 .emphasized {
-  font-style:italic;
+  font-style: italic;
 }
 .color {
   color: red
+}
+
+.spacey {
+  letter-spacing: 0.02em;
+  word-spacing: .5em;
+  line-height: 1.4em
 }
