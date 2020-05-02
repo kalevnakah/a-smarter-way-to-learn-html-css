@@ -14,3 +14,6 @@ h3.bigger {
 .typewriter {
   font-family: "Courier New", Courier, Monospace;
 }
+p.standout {
+  font-style: italic;
+}
