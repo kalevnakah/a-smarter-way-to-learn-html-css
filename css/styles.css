@@ -38,3 +38,6 @@ blockquote{
   font-size: -.5em;
   color: grey;
 }
+p.offsety{
+  margin: 1em 2em 1em 2em;
+}
