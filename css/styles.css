@@ -26,3 +26,9 @@ h3.bigger {
   word-spacing: .5em;
   line-height: 1.4em
 }
+h3{
+  text-align: center
+}
+p.justy {
+  text-align: justify;
+}
