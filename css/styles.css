@@ -48,3 +48,6 @@ p.offsety{
 h4, p{
   text-align: center;
 }
+h2#special{
+  color: orange;
+}
