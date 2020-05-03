@@ -41,3 +41,6 @@ blockquote{
 p.offsety{
   margin: 1em 2em 1em 2em;
 }
+.enclosed{
+  border: 2px ridge blue;
+}
