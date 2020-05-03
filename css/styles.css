@@ -45,3 +45,6 @@ p.offsety{
   border: 2px ridge blue;
   padding: .5em 1em .5em 1em;
 }
+h4, p{
+  text-align: center;
+}
