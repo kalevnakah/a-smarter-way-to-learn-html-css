@@ -80,7 +80,7 @@ a:hover{
   color:orange;
 }
 ul{
-  list-style-position: inside;
+  list-style-type: square;
 }
 li{
   margin: .75em;
