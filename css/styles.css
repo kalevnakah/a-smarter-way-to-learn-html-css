@@ -59,3 +59,10 @@ div#threeem{
 img.itsablock{
   display: block;
 }
+img.inset{
+  margin-left: 2em;
+}
+img.itsinthemiddle{
+  display: block;
+  margin: 0 auto 0 auto;
+}
