@@ -56,3 +56,6 @@ div#threeem{
   margin-right: 3em;
   font-family: Arial, Helvetica, sans-serif;
 }
+img.itsablock{
+  display: block;
+}
