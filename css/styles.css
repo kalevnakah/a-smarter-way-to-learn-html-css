@@ -66,3 +66,10 @@ img.itsinthemiddle{
   display: block;
   margin: 0 auto 0 auto;
 }
+img.itsfloatingleft{
+  float: right;
+  margin: 0 .75em 0 .5em 0;
+}
+p.no-wrap{
+  clear: both;
+}
