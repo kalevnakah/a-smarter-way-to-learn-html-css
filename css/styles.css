@@ -73,3 +73,9 @@ img.itsfloatingleft{
 p.no-wrap{
   clear: both;
 }
+a{
+  color:grey;
+}
+a:hover{
+  color:orange;
+}
