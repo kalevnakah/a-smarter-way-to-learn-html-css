@@ -79,3 +79,9 @@ a{
 a:hover{
   color:orange;
 }
+ul{
+  list-style-position: inside;
+}
+li{
+  margin: .75em;
+}
