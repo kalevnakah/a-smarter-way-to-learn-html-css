@@ -88,3 +88,12 @@ li{
 div#threem p {
   text-size: 2em;
 }
+table {
+  border-collapse: collapse;
+}
+table.trumpwall {
+  border: 5px solid red;
+}
+th,td {
+  border: 2px solid hotpink;
+}
