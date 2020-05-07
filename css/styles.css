@@ -97,24 +97,29 @@ table.trumpwall {
 th,td {
   border: 2px solid hotpink;
 }
-table.tictactoe{
+table#tictactoe{
   border-collapse: collapse;
+  width: 25%
 }
 td.tictactoerow {
   border-bottom: 4px solid black;
   border-top: 4px solid black;
   border-left: none;
   border-right: none;
+  width: 33%;
 }
 td.tictactoecol {
   border-left: 4px solid black;
   border-right: 4px solid black;
   border-top: none;
   border-bottom: none;
+  width: 33%;
 }
 td.tictactoecorner {
   border: none;
+  width: 33%;
 }
 td.tictactoecenter {
   border: 4px solid black;
+  width: 33%;
 }
