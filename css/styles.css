@@ -134,6 +134,7 @@ td.tictactoecenter {
 td.winner {
   background-color: black;
   color: white;
+  border: white;
 }
 tr.tictitle {
   background-color: grey;
