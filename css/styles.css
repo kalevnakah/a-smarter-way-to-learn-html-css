@@ -178,3 +178,7 @@ div#header h1 {
   font-weight: 900;
   padding: 0;
 }
+div#header img {
+  float: left;
+  margin: .9em .6em 0 .7em;
+}
