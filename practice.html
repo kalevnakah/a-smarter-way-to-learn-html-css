@@ -137,13 +137,18 @@ I am <em>Job Title</em>. Approved worker of God.
 </table>
 </br>
 <form action="dosomething.php" method="post">
+  <fieldset>
+    <legend>Thought Selection</legend>
   <label> Identify Yourself!
   <br>
   <input type="text" name="idyourself" size="25" maxlength="40"></label>
   <br>
   <label><input type="radio" name="mineyours" value="Yours">Your Thoughts</labelS>
   <label><input type="radio" name="mineyours" value="Mine">My Thoughts</label>
+  </fieldset>
   <br>
+  <fieldset>
+    <legend>Collection Plate</legend>
   <label>for your thoughts or penny for my thoughts?<br>
   <textarea name="penny" rows="8" cols="30"></textarea></label>
   <br>
@@ -160,6 +165,7 @@ I am <em>Job Title</em>. Approved worker of God.
   </select></label>
   <br>
   <input type="submit" value="Get or Post that Thought HERE">
+  </fieldset>
 </form>
 
 </body>
