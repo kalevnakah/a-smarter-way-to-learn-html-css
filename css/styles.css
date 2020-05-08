@@ -148,5 +148,19 @@ input[type="text"], textarea {
 }
 div#twentycenter {
   width: 20%;
-  margin: 0 auto 0 auto
+  margin: 0 auto 0 auto;
+  float: left;
+}
+div#leftyloosy {
+  width: 38%;
+  margin: 0 auto 0 auto;
+  float: left;
+}
+div#rightytighty {
+  width: 38%;
+  margin: 0 auto 0 auto;
+  float: right;
+}
+.no-wrap {
+  clear: both;
 }
