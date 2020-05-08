@@ -171,3 +171,10 @@ div#header {
   left: 0;
   background-color: blue;
 }
+div#header h1 {
+  color:white;
+  margin-left: 5%;
+  font-size: 2em;
+  font-weight: 900;
+  padding: 0;
+}
