@@ -97,6 +97,7 @@ table.trumpwall {
 th,td {
   border: 2px solid hotpink;
 }
+/* TicTacToe Formatting */
 table#tictactoe{
   border-collapse: collapse;
   width: 25%
@@ -140,6 +141,7 @@ tr.tictitle {
   background-color: grey;
   border: 4px solid black;
 }
+/* End of TicTacToe Formatting */
 input[type="text"], textarea {
   font-size: 2em;
   padding: .25em;
