@@ -191,3 +191,9 @@ div#invisible-header {
 p.clearFloat {
   clear: both;
 }
+div#navbar {
+  clear: both;
+}
+div#navbar ul {
+  list-style: none;
+}
