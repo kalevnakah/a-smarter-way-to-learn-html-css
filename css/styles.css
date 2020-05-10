@@ -184,6 +184,10 @@ div#header img, div#invisible-header img {
 }
 div#invisible-header {
   width: 100%;
-  background-color: yellow;
-  /* visibility: hidden; */
+  top: 0;
+  left: 0;
+  visibility: hidden;
+}
+p.clearFloat {
+  clear: both;
 }
