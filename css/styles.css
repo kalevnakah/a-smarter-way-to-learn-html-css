@@ -206,6 +206,8 @@ div#navbar ul li {
   width: 19%;
   margin-right: .5em;
   display: inline-block;
+  padding: .75em 0 .75em 0;
+  text-align: center;
 }
 div#navbar ul li a {
   font-family: sans-serif;
