@@ -194,11 +194,11 @@ p.clearFloat {
 div#navbar {
   clear: both;
   background-color: lightskyblue;
+  display: inline-block;
 }
 div#navbar ul {
   list-style: none;
   padding-left: 0;
-  display: inline-block;
 }
 div#navbar ul li a {
   font-family: sans-serif;
