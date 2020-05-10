@@ -193,7 +193,6 @@ p.clearFloat {
 }
 div#navbar {
   clear: both;
-  background-color: lightskyblue;
   display: inline-block;
 }
 div#navbar ul {
@@ -201,7 +200,8 @@ div#navbar ul {
   padding-left: 0;
 }
 div#navbar ul li {
-  padding: 0 1em .3em 1em;
+  background-color: lightskyblue;
+  margin: 0 0 .25em 0;
 }
 div#navbar ul li a {
   font-family: sans-serif;
@@ -209,4 +209,6 @@ div#navbar ul li a {
   font-weight: 900;
   text-decoration: none;
   color: darkblue;
+  display: block;
+  padding: .35em;
 }
