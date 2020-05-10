@@ -258,3 +258,8 @@ div#zindex {
       font-family: "Comic Sans MS", cursive, sans-serif;
     }
 }
+p.maxwidth {
+  max-width: 100px;
+  max-height: 100px;
+  overflow: scroll;
+}
