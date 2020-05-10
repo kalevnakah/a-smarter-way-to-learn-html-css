@@ -238,10 +238,10 @@ iframe {
 }
 div.lessthan {
   width: 80%;
-  margin-left: 20%;
+  position: relative;
+  left: 20%;
 }
 div.lessthan p {
   width: 80%;
   text-align: center;
-  left: 20%;
 }
