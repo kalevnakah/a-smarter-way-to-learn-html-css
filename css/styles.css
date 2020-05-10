@@ -201,7 +201,6 @@ div#navbar ul {
   display: block;
 }
 div#navbar ul li {
-  background-color: lightskyblue;
   margin: 0 0 .25em 0;
   width: 19%;
   margin-right: .5em;
@@ -214,6 +213,15 @@ div#navbar ul li a {
   font-size: 1.2em;
   font-weight: 900;
   text-decoration: none;
-  color: darkblue;
+  color: cyan;
   padding: .35em;
+}
+li.changeBackground {
+  background-color: darkblue;
+}
+li.changeBackground:hover {
+  background-color: lightblue;
+}
+li.changeBackground:active {
+  background-color: plum;
 }
